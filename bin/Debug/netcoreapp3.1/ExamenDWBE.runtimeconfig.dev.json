@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Saberob\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Saberob\\.nuget\\packages"
+    ]
+  }
+}
